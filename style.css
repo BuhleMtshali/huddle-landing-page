@@ -1,3 +1,10 @@
 body {
   font-family: "Poppins", sans-serif;
+  background-image: url(img/bg-desktop.svg);
+  object-fit: cover;
+  object-position: center;
+  position: relative;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-color: #674bb2;
 }
