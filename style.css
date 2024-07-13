@@ -51,6 +51,7 @@ button {
   justify-content: end;
   margin-right: 50px;
   flex-wrap: wrap;
+  text-align: center;
 }
 i {
   padding: 10px;
@@ -60,4 +61,5 @@ i {
   text-align: center;
   margin: 5px;
   cursor: grabbing;
+  text-align: center;
 }
