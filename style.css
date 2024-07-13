@@ -21,7 +21,7 @@ body {
   flex-wrap: wrap;
 }
 h1 {
-  font-size: 2em;
+  font-size: 2.5em;
   margin-bottom: 10px;
   font-weight: 600;
 }
@@ -48,7 +48,7 @@ button {
 }
 .socials-container {
   display: flex;
-  justify-content: right;
+  justify-content: end;
   margin-right: 50px;
   flex-wrap: wrap;
 }
@@ -59,4 +59,5 @@ i {
   border: 2px solid white;
   text-align: center;
   margin: 5px;
+  cursor: grabbing;
 }
